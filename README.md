@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi👋, I am Manish Kumar Sahu
+---
+**I am a web developer specialized in MERN stack and an active learner**
 
-<!--
-**t-rex777/t-rex777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- social links -->
+- 🔭 I’m currently working on a social media app named June.
+- 🌱 I'm currently learning redux toolkit, webpack.
+- 😄 I know ReactJS, NodeJS, MongoDB, typescript, javascript, HTML, CSS
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 Reach me out [here](manishworkspace20@gmail.com)
+ ---
+ ### Check out my blogs
+- [Infinite scrolling using Intersection Observer API](https://dev.to/trex777/infinite-scrolling-using-intersection-observer-api-118l)
+- [Throttling and debouncing in ReactJS](https://dev.to/trex777/throttling-and-debouncing-in-reactjs-1gil)
+- [Authentication and Authorization using AccessTokens - RefreshTokens](https://dev.to/trex777/authentication-and-authorization-using-accesstokens-refreshtokens-part-1-1ic8)
+- [Monorepo and its setup for MERN stack](https://dev.to/trex777/monorepo-and-its-setup-for-mern-stack-3l66)
+---
 
-Here are some ideas to get you started:
+[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-rex777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-rex777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
