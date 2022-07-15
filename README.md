@@ -3,8 +3,8 @@
 **I am a web developer specialized in MERN stack and an active learner**
 
 <!-- social links -->
-- 🔭 I’m currently working on a social media app named June.
-- 🌱 I'm currently learning redux toolkit, webpack.
+- 🔭 I’m currently working on a university placement app named Mirai.
+- 🌱 I'm currently learning NextJS, tRPC.
 - 😄 I know ReactJS, NodeJS, MongoDB, typescript, javascript, HTML, CSS
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Reach me out [here](manishworkspace20@gmail.com)
